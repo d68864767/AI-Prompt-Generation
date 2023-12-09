@@ -1,0 +1,12 @@
+# requirements.txt
+
+# This file should list all Python libraries that your project depends on.
+# Since the project description does not specify any external libraries and
+# the task can be completed with Python's standard library, this file can be left empty.
+
+# However, if you later decide to use any third-party libraries, you should list them here,
+# along with their versions. For example:
+# numpy==1.19.3
+# pandas==1.1.5
+
+# For now, no additional libraries are needed.
